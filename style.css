@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.clock{
+    width: 600px;
+    height: 250px;
+    background-color: rgb(87, 204, 250);
+    border-radius: 15px;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+
+    
+    
+}
+
+h2{
+     font-size: 3rem;
+     text-align: center;
+     color: #FFF;
+    margin-bottom: 3rem;
+}
+
+.container-clock{
+    width: 100%;
+    height: 100px;    
+    
+    
+}
+
+#time{
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     font-size: 4rem;
+     font-weight: 600;
+    
+}
+
+
+
+
