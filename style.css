@@ -39,7 +39,7 @@ h2{
     
 }
 
-#time{
+.time{
     color: #FFF;
     display: flex;
     justify-content: center;
